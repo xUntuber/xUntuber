@@ -2,7 +2,7 @@
 
 <h3 align="left">Contact with me:</h3>
 <p align="left">
-<img src="https://img.shields.io/badge/xUntuber%235522-%237289DA.svg?&logo=discord&logoColor=red">
+<img src="https://img.shields.io/badge/xuntuber-%237289DA.svg?&logo=discord&logoColor=red%22">
 </p>
 
 <h3 align="left">Languages:</h3>
